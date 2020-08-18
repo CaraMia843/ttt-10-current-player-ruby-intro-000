@@ -4,7 +4,7 @@ def turn_count(board)
     if position == "X" || position == "O"
       counter += 1 
     end
-  counter
+    counter
 end
 
 def current_player(board)
